@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
+### Demo
+![demo.gif](http://sv1.upsieutoc.com/2017/06/26/demo.gif)
+
 ### Requires
  - [react-native](https://facebook.github.io/react-native/)
  - [create-react-native-app](https://github.com/react-community/create-react-native-app)
