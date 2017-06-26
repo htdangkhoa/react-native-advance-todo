@@ -1,0 +1,7 @@
+{
+    "extends": "rallycoding",
+    "rules": {
+        "eol-last":"off",
+        "dot-location":"error"
+    }
+}
