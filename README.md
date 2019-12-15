@@ -1,6 +1,9 @@
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 ### Demo
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/htdangkhoa/react-native-advance-todo.svg)](https://greenkeeper.io/)
+
 ![demo.gif](http://sv1.upsieutoc.com/2017/06/26/demo.gif)
 
 ### Requires
